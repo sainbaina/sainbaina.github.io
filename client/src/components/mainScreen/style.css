@@ -1,0 +1,119 @@
+.userImgContainer {
+    width: 24rem;
+    height: 30rem;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.imgFrame {
+    background: #CED9F3;
+    width: 20rem;
+    height: 24rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.userImg {
+    width: 80%;
+    height: 90%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.figuresImg {
+    /* background-color: black; */
+    padding-top: 2rem;
+    padding-left: 2rem;
+    width: 30rem;
+    height: 30rem;
+    /* object-fit: cover; */
+}
+
+.mainScreen {
+    width: 80rem;
+    display: flex;
+    justify-content: baseline;
+}
+
+.infoFrame {
+    padding-top: 2rem;
+}
+
+.blue-rectangle {
+    margin-top: 4rem;
+    width: 20rem; 
+    height: 0.3rem;
+    background: #4765AB;
+}
+
+.light-blue-rectangle {
+    margin-top: 0.5rem;
+    width: 25rem; 
+    height: 0.4rem;
+    background: #6A8BD9;
+}
+
+.name {
+    font-size: xx-large;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+
+.position {
+    width: 30rem;
+    padding-top: 1rem;
+    padding-bottom: 0.3rem;
+    font-size: large;
+    font-weight: lighter;
+    font-family: sans-serif;
+    position: absolute;
+    z-index: 1000;
+}
+
+.contacts {
+    padding-top: 1rem;
+    font-size:medium;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+
+.screens {
+    /* height: 85rem;  */
+    background-image: url('../../images/other/background.svg'); 
+    background-size: cover; 
+    background-repeat:repeat-y; 
+    background-position: center; 
+    padding-top: 5rem;
+}
+
+.contentHeader {
+    padding-top: 4rem;
+    font-family: sans-serif;
+    font-size: xx-large;
+    padding-left: 3rem;
+    padding-bottom: 1rem;
+}
+
+.article {
+    font-size: larger;
+    padding-left: 3rem;
+}
+
+.certificates {
+    /* padding-left: 3rem; */
+}
+
+.certificate {
+    padding-left: 3rem;
+    padding-bottom: 2rem;
+    height: 17rem;
+}
+
+.anchor-offset {
+    scroll-margin-top: 5rem;
+}

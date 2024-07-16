@@ -1,0 +1,45 @@
+.article_container {
+    margin-left: 4rem;
+}
+
+.article_title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+
+.article_text {
+    font-size: medium;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.article_paragraph {
+    font-family: 'Montserrat', sans-serif;
+    text-indent: 2rem;
+    margin-bottom: 1em;
+    margin-right: 6rem;
+    font-size:medium;
+    font-weight: 400;
+}
+
+.article_links_container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 4rem;
+    background: #CED9F3;
+}
+
+.article_link {
+    font-size: medium;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.links_title {
+    font-size: larger;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 1rem;
+    padding-top: 0.5rem;
+}

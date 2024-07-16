@@ -1,0 +1,17 @@
+.footer {
+    background: #233C95;
+    width: 80rem; 
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact_logo_container {
+    margin-right: 6rem;
+}
+
+.contact_logo {
+    max-height: 2.5rem;
+    max-width: 2.5rem;
+}
